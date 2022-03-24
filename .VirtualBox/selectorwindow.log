@@ -1,0 +1,17 @@
+00:00:02.450770 VirtualBox GUI VM Selector Window 6.1.26 r145957 win.amd64 (Jul 28 2021 17:15:09) release log
+00:00:02.450776 Log opened 2021-09-20T14:44:38.490865000Z
+00:00:02.450777 Build Type: release
+00:00:02.450791 OS Product: Windows 10
+00:00:02.450794 OS Release: 10.0.19042
+00:00:02.450795 OS Service Pack: 
+00:00:02.568174 DMI Product Name: 80QE
+00:00:02.583613 DMI Product Version: Lenovo YOGA 700-11ISK
+00:00:02.583662 Firmware type: UEFI
+00:00:02.584403 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:02.584457 Host RAM: 8074MB (7.8GB) total, 4632MB (4.5GB) available
+00:00:02.584471 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:02.584472 Process ID: 8260
+00:00:02.584473 Package type: WINDOWS_64BITS_GENERIC
+00:00:02.585209 Qt version: 5.6.2
+00:00:02.648471 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:05.025688 GUI: UIMediumEnumerator: Medium-enumeration finished!
